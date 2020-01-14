@@ -1,7 +1,7 @@
 # ISI_Launches_Scraper
 
 
-**DESCRIPTION:** Technical interview for USC ISI MINDS lab. This application will create a .csv file containing dates & launch counts of Orbital Launches in 2019. More requirements are outlined in the document 'SAGE Project - Web Scraping Assignment.pdf'. 
+**DESCRIPTION:** Technical interview for USC ISI MINDS lab. This application will create a .csv file containing dates & launch counts of successful Orbital Launches in 2019. More requirements are outlined in the document 'SAGE Project - Web Scraping Assignment.pdf'. 
 
 **USER GUIDE**
 
